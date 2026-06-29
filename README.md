@@ -1,2 +1,0 @@
-# Mcherak
-Piscine 42
